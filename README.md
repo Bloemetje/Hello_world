@@ -1,2 +1,6 @@
 # Hello_world
-My first repository on GitHub
+Hello world!
+
+This is my first repository on GitHub
+
+My account name is Bloemetje
